@@ -1,0 +1,8 @@
+Ira Lee's OS Simulation
+
+Use 'make' to compile everything
+Use './main' to run the simulation
+
+Some notes
+
+A process with -1 ID means its a hole or inactive.

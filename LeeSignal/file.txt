@@ -1,0 +1,6 @@
+Wait Set: 
+-----------------------------
+Signal 2: Interrupt
+-----------------------------
+In handler()...
+ACTION: Received SIGINT.

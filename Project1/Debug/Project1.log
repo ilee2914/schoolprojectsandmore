@@ -1,0 +1,2 @@
+﻿  duktape.c
+c:\users\ilee2\desktop\dukkinaround\project1\project1\duk_js_call.c(2102): error C4703: potentially uninitialized local pointer variable 'act' used
